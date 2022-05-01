@@ -10,6 +10,8 @@ Metrics; all with references to useful relevant OWASP projects.
 [Download the latest release](https://github.com/OWASP/security-culture/releases/latest) or 
 [view the web version](https://owasp.org/www-project-security-culture/) on the OWASP website.
 
+[#project-security-culture](https://owasp.slack.com/messages/project-security-culture/details/)
+
 [Creative Commons 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Leaders
