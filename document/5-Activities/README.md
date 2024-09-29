@@ -96,11 +96,6 @@ secure coding techniques, how to avoid common security mistakes and
 remediate vulnerabilities. These are targeted to a particular
 programming language.
 
-Resources:
-
--   [OWASP Secure Flag Open
-    Platform](https://owasp.org/www-project-secureflag-open-platform/)
-
 ### Vulnerable applications
 
 Intentionally vulnerable applications give developers hands-on
